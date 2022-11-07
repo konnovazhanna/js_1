@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+}
+
+ul {
+    padding: 0;
+}
+
+.container {
+    margin: auto;
+    width: 1170px;
+}
+
+.list {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
